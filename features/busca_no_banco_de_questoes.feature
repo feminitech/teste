@@ -19,7 +19,7 @@ Cenário: Controle de páginação
     Então uma listagem com 25 itens deve ser exibida
     E o controle de paginação deve estar presente
 
-Cenário: 
+Cenário: Adicionar perguntas
 
     E clico no botão adicionar perguntas
     Então visualizo uma mensagem de erro com o textp 'ERROR! You must be logged in to submit a trivia question.'
