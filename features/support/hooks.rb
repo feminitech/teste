@@ -1,6 +1,4 @@
 
-
-
 Before do
     @BancoQuestoes = BancoQuestoes.new
     
@@ -8,4 +6,3 @@ Before do
   #1920x1080
 
 end
-
