@@ -24,7 +24,7 @@ Projeto de automação web.
 
 ### Pre Requisitos
 1.  Realizar o git clone do projeto
-2.  Acessar a pasta `projectSolides` 
+2.  Acessar a pasta `teste` 
 3.  Executar o comando bundle install
 
 <br>
